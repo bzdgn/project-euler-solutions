@@ -2,8 +2,8 @@
 
 *******
 ## Important Notes;
-This repository contains my personal solutions to [project-euler](https://projecteuler.net/)
-I'll extend this readme also the comments in the code to make everything much more clear.
+This repository contains my personal solutions to [project-euler](https://projecteuler.net/).
+I'll extend this README file in order to make everything much more clear.
 
 Levent Divilioglu November-2017
 *******
