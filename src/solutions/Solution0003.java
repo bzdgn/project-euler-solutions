@@ -15,7 +15,6 @@ package solutions;
 public class Solution0003 {
 	
 	private static final int PRIME_SIZE = (int)Math.sqrt(600851475143L)+1;
-//	private static final int PRIME_SIZE = 100;
 	private static boolean primes[];
 	
 	static {
